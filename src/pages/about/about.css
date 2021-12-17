@@ -1,0 +1,29 @@
+.aboutcontainer{
+    display:flex;
+}
+.aboutcontent{
+    flex:4;
+    margin:40px;
+}
+.sidebar{
+    flex:1;
+}
+.aboutcontenttitle{
+    font-size: 40px;
+    display:flex;
+    justify-content: center;
+
+}
+.aboutcontentdesc{
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+
+}
+.image{
+    display: flex;
+    justify-content: center;
+    width:70%;
+    border-radius:10%;
+
+}
